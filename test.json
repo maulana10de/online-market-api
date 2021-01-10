@@ -1,0 +1,26 @@
+{
+  "data": {
+    "name": "JORDAN WESTBROOK ONE TAKE",
+    "category": "Shoes",
+    "brand": "JORDAN",
+    "colour": "WHITE/WHITE-BLACK-RAGE GREEN",
+    "description": "In the game of basketball Michael Jordan is a god. Number 23 of the Chicago Bulls has set the bar extremely high: His six championship rings, five mvp`s, numerous scoring titles, not to mention his ...",
+    "price": 1500000
+  },
+  "stock": [
+    [1, 55],
+    [2, 40],
+    [3, 65],
+    [4, 80],
+    [5, 10],
+    [6, 50]
+  ],
+  "images": [
+    "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-1.jpg",
+    "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-2.jpg",
+    "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-3.jpg",
+    "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-4.jpg",
+    "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-5.jpg",
+    "https://kickz.akamaized.net/en/media/images/p/1200/JORDAN_WESTBROOK_ONE_TAKE-WHITE_WHITE_BLACK_RAGE_GREEN-6.jpg"
+  ]
+}
